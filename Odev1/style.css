@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.title{
+    font-size: xx-large;
+}
+
+.welcome{
+    font-size: x-large;
+    padding: 1em;
+}
