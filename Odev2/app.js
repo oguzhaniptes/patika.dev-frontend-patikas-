@@ -32,7 +32,6 @@ function Add(event) {
         message.innerHTML = "Ekleme başarılı şekilde gerçekleşti."
         title.innerHTML = 'İşlem başarılı.'
         var toast = new bootstrap.Toast(tot)
-        console.log(tot.classList)
         toast.show()
     }
     else { alert("Hiç bir şey yapmayacaksın öyle mi ? Kabul edemiyoruz malesef bir görev gir :)") }
