@@ -9,7 +9,7 @@
    * #### HTML ödevleri
         - Basit HTML sayfası
         - Birden fazla sayfalı basit HTML sitesi
-        - Yemek tarifi sites
+        - Yemek tarifi sitesi
 
    *  #### JavaScript ödevleri
         - Anlık güncellenen saat
