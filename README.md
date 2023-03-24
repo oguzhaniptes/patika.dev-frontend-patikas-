@@ -1,11 +1,15 @@
 # patika.dev Frontend Patikası Ödevleridir.
 
+
+[Profil](https://app.patika.dev/oguzhaniptes)
+
 ## İçindekiler
 
 
    * #### HTML ödevleri
         - Basit HTML sayfası
         - Birden fazla sayfalı basit HTML sitesi
+        - Yemek tarifi sites
 
    *  #### JavaScript ödevleri
         - Anlık güncellenen saat
