@@ -12,4 +12,5 @@
 
 - #### JavaScript ödevleri
   - Anlık güncellenen saat
-  - Yapılacaklar liste uygulaması (To do list)
+  - To Do Lisst
+  - Asian Kitchen's Menu
