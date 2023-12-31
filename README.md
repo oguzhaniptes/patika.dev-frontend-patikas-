@@ -12,5 +12,10 @@
 
 - #### JavaScript ödevleri
   - Anlık güncellenen saat
-  - To Do Lisst
+  - To Do List
   - Asian Kitchen's Menu
+  
+- #### CSS ödevleri
+  - Bisiklet Dükkanı
+  - Eski Google arayüzü
+  - Yeni Google arayüzü 
